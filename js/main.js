@@ -9,4 +9,4 @@ var yyyy = today.getFullYear();
     } 
 
 today = mm+'-'+dd+'-'+yyyy;
-document.getElementById("datePicker").setAttribute("max", today);
+document.getElementById("datePicker").setAttribute("value", today);
