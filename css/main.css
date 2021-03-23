@@ -6,3 +6,7 @@
 .font-example{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.bg-lightGray{
+    background-color: lightgray;
+}
